@@ -1,0 +1,26 @@
+@import url(https://unpkg.com/@webpixels/css@1.0/dist/index.css);
+
+/* banner */
+
+#banner-container {
+  background-color: #0a193d;
+  color: white !important;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+#banner-row h3,
+p {
+  padding-left: 20px;
+  padding-top: 20px;
+  text-align: center;
+}
+
+/* footer */
+
+.mb-3 {
+  padding-top: 10px;
+}
+p {
+  text-align: justify;
+}
